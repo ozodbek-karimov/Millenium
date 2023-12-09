@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Millenium</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="my_products">My products</string>
+    <string name="_13"> 13 </string>
+    <string name="todo">TODO</string>
+    <string name="ozodbek_karimov">Karimov Ozodbek</string>
+    <string name="log_out">Log out</string>
+    <string name="contact">Contact</string>
+    <string name="settings">Settings</string>
+    <string name="start">Start</string>
+    <string name="my_finance">My Finance</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="click_and_block_in_app">Click and block in app</string>
+    <string name="call_consultant_n_directly">Call consultant \ndirectly</string>
+    <string name="_24h_7">24h/7</string>
+    <string name="send_a_message">Send a message</string>
+    <string name="call_to_report_fraud_and_to_block_your_naccount">Call to report fraud and to block your \naccount</string>
+    <string name="start_chat">Start chat</string>
+    <string name="version_4_79_12">Version 4.79.12</string>
+</resources>
